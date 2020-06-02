@@ -1,3 +1,43 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{Yu2015Trajectory}
+Zheng Yu.
+\newblock Trajectory data mining: An overview.
+\newblock {\em ACM Transactions on Intelligent Systems and Technology},
+  6(3):1--41, 2015.
+
+\bibitem{Schafer2011What}
+R.W Schafer.
+\newblock What is a savitzky-golay filter? [lecture notes].
+\newblock {\em Signal Processing Magazine, IEEE}, 28(4):p.111--117, 2011.
+
+\bibitem{Welch1995An}
+Greg Welch and Gary Bishop.
+\newblock {\em An Introduction to the Kalman Filter}.
+\newblock University of North Carolina at Chapel Hill, 1995.
+
+\bibitem{Zhang2016Sequential}
+Aoqian Zhang, Shaoxu Song, and Jianmin Wang.
+\newblock Sequential data cleaning: A statistical approach.
+\newblock In {\em International Conference on Management of Data}, 2016.
+
+\bibitem{Palma2008A}
+Andrey~Tietbohl Palma, Vania Bogorny, Bart Kuijpers, and Luis~Otávio Alvares.
+\newblock A clustering-based approach for discovering interesting places in
+  trajectories.
+\newblock In {\em Acm Symposium on Applied Computing}, 2008.
+
+\bibitem{ChristopherD2010信息检索导论}
+ChristopherD.Manning, PrabhakarRaghavan, HinrichSchutze, 曼宁, 拉哈万,
+  舒策, and 王斌.
+\newblock 信息检索导论.
+\newblock 2010.
+
+\bibitem{Mikolov2013Distributed}
+T.~Mikolov.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock {\em Advances in Neural Information Processing Systems},
+  26:3111--3119, 2013.
 
 \end{thebibliography}

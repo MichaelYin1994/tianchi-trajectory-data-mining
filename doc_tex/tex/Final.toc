@@ -7,10 +7,10 @@
 \contentsline {section}{\numberline {3}基础数据探索性分析}{4}{section.3}
 \contentsline {subsection}{\numberline {3.1}针对渔船北斗轨迹的统计可视化研究}{4}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}基础探索性分析总结}{10}{subsection.3.2}
-\contentsline {section}{\numberline {4}算法阶段：渔船作业类型识别方法}{11}{section.4}
-\contentsline {subsection}{\numberline {4.1}数据清洗部分}{11}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}POI信息挖掘}{12}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}基于word2vec的轨迹时序信息挖掘方法}{13}{subsection.4.3}
+\contentsline {section}{\numberline {4}算法阶段：渔船作业类型识别方法}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}数据清洗部分}{10}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}POI信息挖掘}{11}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}基于word2vec的轨迹时序信息挖掘方法}{12}{subsection.4.3}
 \contentsline {subsection}{\numberline {4.4}轨迹统计信息挖掘方法}{13}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}半监督学习强化与分类器训练}{14}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.5}半监督学习强化与分类器训练}{13}{subsection.4.5}
 \contentsline {section}{\numberline {5}总结}{14}{section.5}

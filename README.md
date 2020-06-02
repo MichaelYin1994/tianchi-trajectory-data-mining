@@ -62,7 +62,7 @@ liu123的航空母舰队，队长鱼丸粗面(zhuoyin94@163.com)。复赛算法�
 
 [2] Schafer R W. What Is a Savitzky-Golay Filter? [Lecture Notes][J]. IEEE Signal Processing Magazine, 2011, 28(4): 111-117.
 
-[3] interesting Kalman filter links. An Introduction to the Kalman Filter[J]. 1995.
+[3] Greg Welch, Gary Bishop. An Introduction to the Kalman Filter[M]. University of North Carolina at Chapel Hill, 1995.
 
 [4] Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient estimation of word representations in vector space. ICLR Workshop, 2013
 

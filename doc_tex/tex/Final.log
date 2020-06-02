@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.26)  3 JUN 2020 00:38
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.26)  3 JUN 2020 02:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1789,42 +1789,39 @@ File: ..//plots//feature_lon_distribution.png Graphic file (type bmp)
  [8]
 File: ..//plots//feature_mean_freq_coordinates.png Graphic file (type bmp)
 <..//plots//feature_mean_freq_coordinates.png>
- [9] [10]
+ [9]
 File: ..//plots//traj_filtering_396.png Graphic file (type bmp)
 <..//plots//traj_filtering_396.png>
 File: ..//plots//traj_filtering_691.png Graphic file (type bmp)
 <..//plots//traj_filtering_691.png>
 File: ..//plots//traj_filtering_1093.png Graphic file (type bmp)
 <..//plots//traj_filtering_1093.png>
- [11]
+ [10]
 File: ..//plots//poi_mining_method.pdf Graphic file (type pdf)
 <use ..//plots//poi_mining_method.pdf>
+ [11]
 File: ..//plots//feature_pois.png Graphic file (type bmp)
 <..//plots//feature_pois.png>
- [12]
 File: ..//plots//sequence_encoding.pdf Graphic file (type pdf)
 <use ..//plots//sequence_encoding.pdf>
- [13]
+ [12]
 File: ..//plots//fake_labels.pdf Graphic file (type pdf)
 <use ..//plots//fake_labels.pdf>
- [14] (./Final.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 345.
+ [13] (./Final.bbl [14])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 345.
- (./Final.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 345.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 345.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 345.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
+
+(./Final.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 344.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 344.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
  ) 
 Here is how much of TeX's memory you used:
- 30029 strings out of 493007
- 592715 string characters out of 6136719
+ 30066 strings out of 493007
+ 595039 string characters out of 6136719
  657795 words of memory out of 5000000
- 33697 multiletter control sequences out of 15000+600000
+ 33734 multiletter control sequences out of 15000+600000
  536014 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  57i,13n,75p,10432b,482s stack positions out of 5000i,500n,10000p,200000b,80000s

@@ -2,47 +2,47 @@ This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Final.aux
 The style file: unsrt.bst
-I found no \citation commands---while reading file Final.aux
 Database file #1: Final_ref.bib
-You've used 0 entries,
+Warning--empty journal in ChristopherD2010信息检索导论
+You've used 7 entries,
             1791 wiz_defined-function locations,
-            445 strings with 3517 characters,
-and the built_in function-call counts, 18 in all, are:
-= -- 0
-> -- 0
+            493 strings with 4726 characters,
+and the built_in function-call counts, 1432 in all, are:
+= -- 109
+> -- 68
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 26
+- -- 19
+* -- 89
+:= -- 239
+add.period$ -- 21
+call.type$ -- 7
+change.case$ -- 6
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 8
+duplicate$ -- 69
+empty$ -- 156
+format.name$ -- 19
+if$ -- 318
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 7
+missing$ -- 8
+newline$ -- 38
+num.names$ -- 7
+pop$ -- 29
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1
+skip$ -- 21
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 66
+swap$ -- 8
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There was 1 error message)
+warning$ -- 1
+while$ -- 10
+width$ -- 8
+write$ -- 74
+(There was 1 warning)
