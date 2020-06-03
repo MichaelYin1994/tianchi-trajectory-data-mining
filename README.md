@@ -2,7 +2,7 @@
 
 ---
 ### 队伍简介
-liu123的航空母舰队，队长鱼丸粗面(zhuoyin94@163.com)。复赛算法阶段F1成绩0.8995(3/3275)，复赛可视化阶段成绩21.0(7/14)。注：以上Rank为算法赛阶段成绩。
+liu123的航空母舰队，队长鱼丸粗面(zhuoyin94@163.com)。复赛算法阶段F1成绩0.8995(3/120)，复赛可视化阶段成绩21.0(7/14)。注：以上Rank为算法赛阶段成绩。
 
 
 ### 主要依赖packages与运行依赖环境
@@ -55,6 +55,17 @@ liu123的航空母舰队，队长鱼丸粗面(zhuoyin94@163.com)。复赛算法�
 
 #### 模型训练
 - **traj_data_classification.py**： 最终的分类器训练。
+
+#### 辅助文件
+- **utils.py**： 辅助文件，包括内存优化工具、DTW距离和lgb与xgb训练工具等。
+
+---
+### 文档与PPT百度网盘链接
+- github代码与Tex文档、答辩PPT开源地址： https://github.com/MichaelYin1994/tianchi-trajectory-data-mining
+
+- 文档和答辩PPT备用百度网盘地址： https://pan.baidu.com/s/1WTifGbz-kvcWRk_f2czrdA
+
+- 文件提取码：o3rm
 
 ---
 ### References
