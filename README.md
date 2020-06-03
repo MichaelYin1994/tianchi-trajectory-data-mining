@@ -63,6 +63,8 @@ liu123的航空母舰队，队长鱼丸粗面(zhuoyin94@163.com)。复赛算法�
 ### 文档与PPT百度网盘链接
 - github代码与Tex文档、答辩PPT开源地址： https://github.com/MichaelYin1994/tianchi-trajectory-data-mining
 
+- B站宣传视频：https://b23.tv/OUzxGP
+
 - 文档和答辩PPT备用百度网盘地址： https://pan.baidu.com/s/1WTifGbz-kvcWRk_f2czrdA
 
 - 文件提取码：o3rm
